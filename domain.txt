@@ -1,0 +1,4 @@
+A,www.baidu.com
+A,www.bing.com
+A,qq.com
+NS,baidu.com
